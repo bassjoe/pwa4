@@ -1,0 +1,23 @@
+{
+	"short_name": "pwa4-s",
+	"name": "pwa4-n",
+	"description": "pwa #4",
+	"start_url": ".",
+	"scope": ".",
+	"display": "standalone",
+	"theme_color": "#eff",
+	"background_color": "#fff",
+	"icons": [
+		{
+			"src": "icon-192.png",
+			"sizes": "192x192",
+			"type": "image/png",
+			"purpose": "maskable"
+		},
+		{
+			"src": "icon-512.png",
+			"sizes": "512x512",
+			"type": "image/png"
+		}
+	]
+}
